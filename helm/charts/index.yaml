@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  hapi-fhir:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-11-11"
+    description: HAPI-FHIR helm chart for Kubernetes
+    home: https://github.com/AnujAroshA/hapi-fhir
+    keywords:
+    - hapi-fhir
+    - fhir-audit-event
+    maintainers:
+    - email: anuja_ict@yahoo.com
+      name: AnujAroshA
+    name: hapi-fhir
+    sources:
+    - https://github.com/AnujAroshA/hapi-fhir
+    type: application
+    urls:
+    - hapi-fhir-0.1.0.tgz
+    version: 0.1.0
