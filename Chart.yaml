@@ -1,6 +1,15 @@
 apiVersion: v2
 name: hapi-fhir
 description: A Helm chart for Kubernetes
+home: https://github.com/AnujAroshA/hapi-fhir
+keywords:
+- hapi-fhir
+- fhir-audit-event
+maintainers:
+- email: anuja_ict@yahoo.com
+  name: AnujAroshA
+sources:
+- https://github.com/AnujAroshA/hapi-fhir
 
 # A chart can be either an 'application' or a 'library' chart.
 #
