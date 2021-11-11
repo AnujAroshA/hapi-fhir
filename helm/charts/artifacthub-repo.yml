@@ -9,9 +9,7 @@
 # when the hash of the last commit in the branch you set up changes. This does
 # NOT apply to ownership claim operations, which are processed immediately.
 #
-repositoryID: https://github.com/AnujAroshA/hapi-fhir
+#repositoryID:
 owners:
   - name: AnujAroshA
     email: anuja_ict@yahoo.com
-ignore:
-  - name: hapi-fhir-0.1.0.tgz
